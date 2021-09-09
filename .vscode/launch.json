@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    
+    
+        {
+            "name": "Projet",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Projet (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
