@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shop_app/components/product_card.dart';
 import 'package:shop_app/services/product_provider.dart';
-import '../../../size_config.dart';
+import '../../../components/size_config.dart';
 
 class AllProducts extends StatefulWidget {
   @override

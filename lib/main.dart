@@ -5,7 +5,7 @@ import 'models/user.dart';
 import 'routes.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'services/product_provider.dart';
-import 'theme.dart';
+import 'components/theme.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 

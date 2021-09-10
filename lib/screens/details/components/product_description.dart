@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shop_app/models/Product.dart';
-import '../../../size_config.dart';
+import '../../../components/size_config.dart';
 
 class ProductDescription extends StatelessWidget {
   const ProductDescription({

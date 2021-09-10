@@ -4,7 +4,7 @@ import 'package:shop_app/components/ttp.dart';
 import 'package:shop_app/models/Cart.dart';
 import 'package:shop_app/models/Product.dart';
 import 'package:shop_app/screens/cart/cart_screen.dart';
-import 'package:shop_app/size_config.dart';
+import 'package:shop_app/components/size_config.dart';
 import 'product_description.dart';
 import 'top_rounded_container.dart';
 import 'product_images.dart';

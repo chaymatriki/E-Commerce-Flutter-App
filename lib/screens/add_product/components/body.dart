@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../../size_config.dart';
+import '../../../components/size_config.dart';
 import 'add_product_form.dart';
 
 class Body extends StatelessWidget {

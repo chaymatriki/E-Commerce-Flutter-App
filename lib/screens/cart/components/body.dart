@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shop_app/models/Cart.dart';
-import '../../../size_config.dart';
+import '../../../components/size_config.dart';
 import 'cart_card.dart';
 
 class Body extends StatefulWidget {

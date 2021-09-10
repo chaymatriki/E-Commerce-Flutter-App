@@ -5,8 +5,8 @@ import 'package:shop_app/components/form_error.dart';
 import 'package:shop_app/screens/home/home_screen.dart';
 import 'package:shop_app/services/auth.dart';
 import '../../../components/default_button.dart';
-import '../../../constants.dart';
-import '../../../size_config.dart';
+import '../../../components/constants.dart';
+import '../../../components/size_config.dart';
 
 class SignForm extends StatefulWidget {
   @override

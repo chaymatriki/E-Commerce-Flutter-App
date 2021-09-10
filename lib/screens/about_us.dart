@@ -7,7 +7,7 @@ class PresentationScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Presentation"),
+        title: Text("About Us"),
       ),
       body: SingleChildScrollView(
         child: Center(
@@ -26,7 +26,6 @@ class PresentationScreen extends StatelessWidget {
                   child: Text(
                     "Aggricus is an online platform for the marketing of Tunisian agricultural, local and handicraft products, implemented within the framework of a cooperation agreement between the Technological Pole of Minoua and the Agriculture and Food Organization.",
                     style: TextStyle(fontSize: 20),
-                    textAlign: TextAlign.justify,
                   ),
                 ),
                 Text(

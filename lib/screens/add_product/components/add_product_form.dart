@@ -7,7 +7,7 @@ import 'package:shop_app/components/form_error.dart';
 import 'package:shop_app/screens/home/home_screen.dart';
 import 'package:shop_app/services/product_provider.dart';
 import '../../../components/default_button.dart';
-import '../../../size_config.dart';
+import '../../../components/size_config.dart';
 
 class ProductForm extends StatefulWidget {
   @override

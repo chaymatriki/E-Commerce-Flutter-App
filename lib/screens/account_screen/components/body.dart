@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/constants.dart';
-import 'package:shop_app/size_config.dart';
+import 'package:shop_app/components/constants.dart';
+import 'package:shop_app/components/size_config.dart';
 import 'account_form.dart';
 
 class Body extends StatelessWidget {
